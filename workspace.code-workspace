@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "lessons",
+			"path": "..\\..\\lessons"
+		},
+		{
+			"name": "training",
+			"path": "..\\training"
+		},
+		{
+			"name": "revision",
+			"path": "..\\revision"
+		},
+		{
+			"name": "assignments",
+			"path": "..\\..\\..\\assignments"
+		},
+		{
+			"name": "application",
+			"path": "."
+		},
+		{
+			"name": "training on visual studio code",
+			"path": "..\\..\\..\\training on visual studio code"
+		}
+	]
+}
